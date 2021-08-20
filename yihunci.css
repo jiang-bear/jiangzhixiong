@@ -1,40 +1,45 @@
 .center {
-    text-align: center;
+     text-align: center;
 }
-h1 {
-    font-size: 40px;
-    line-height: 42px;
+ h1 {
+     font-size: 2.5rem;
+     line-height: 2.625rem;
 }
-h6{
-    font-size: 16px;
-    line-height: 1px;
-    color: hsl(0, 0%, 50%);
+ h6{
+     font-size: 1rem;
+     line-height: 0.0625rem;
+     color: hsl(0, 0%, 50%);
 }
-body {
-    color: black;
-    padding-right: 10px;
-    padding-left: 10px;
-    word-break: break-word;
-    overflow-wrap: break-word;
-    text-align: left;line-height: 1.25;
-    font-family: "Microsoft Yahei", Helvetica, sans-serif;
-    letter-spacing: 2px;
-    background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%);background-size: 30px 30px;background-position: center center;
+ body {
+     color: black;
+     padding-right: 0.625rem;
+     padding-left: 0.625rem;
+     word-break: break-word;
+     overflow-wrap: break-word;
+     text-align: left;
+     line-height: 1.25;
+     font-family: "Microsoft Yahei", Helvetica, sans-serif;
+     letter-spacing: 0.125rem;
+     background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%);
+     background-size: 1.875rem 1.875rem;
+     background-position: center center;
 }
-.red {
-    color: red;
-    font-weight: 700;
+ .red {
+     color: red;
+     font-weight: 700;
 }
-.jianju {
-    height: 20px;
+ .jianju {
+     height: 1.25rem;
 }
-.knowledge{
-    min-height: 250px;
-    background: rgba(160, 211, 255, 0.685);
-    border-radius: 10px;
-    padding-top: 10px;
-    margin: 0 auto;
+ .knowledge{
+     min-height: 15.625rem;
+     background: rgba(160, 211, 255, 0.685);
+     border-radius: 0.625rem;
+     padding-top: 0.625rem;
+     margin: 0 auto;
 }
-.pra{
-    padding-left: 25px;font-size: 30px;
+ .pra{
+     padding-left: 1.5625rem;
+     font-size: 1.875rem;
 }
+ 
