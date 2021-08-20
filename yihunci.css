@@ -29,7 +29,7 @@ body {
     height: 20px;
 }
 .knowledge{
-    height: 250px;
+    min-height: 250px;
     background: rgba(160, 211, 255, 0.685);
     border-radius: 10px;
     padding-top: 10px;
