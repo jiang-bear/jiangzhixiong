@@ -25,3 +25,9 @@ body {
  h3 {
      color: #3366cc;
 }
+#peise {
+    display: inline-block;
+    width: 400px;
+    margin-bottom: 0px;
+    width:auto;
+}
